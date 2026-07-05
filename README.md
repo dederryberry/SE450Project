@@ -1,3 +1,11 @@
+# Sprint 2 - Project Description
+My project is going to be a Sheet Music Analysis program. It will do the following:
+- Allow the user to upload a sheet music file in one of a few different standard formats.
+- Analyze various facets of the music, including: tempo, note range, key changes, etc.
+- Report back various stats, ultimately assigning a difficulty score to the music.
+
+I anticipate being able to use various different design patterns for this project.
+
 # SE450Project
 Repository for my project for DePaul SE 450, Summer 2026.
 
@@ -20,3 +28,5 @@ Checklist:
 – Where is the entry point to your project? (src/main/Main.java for
 example)
     - src/Main.java (for now)
+
+
